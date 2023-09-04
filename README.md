@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @subhajit-dubey
+- 👋 Hi, I’m Subhajit Dubey
 - 👀 I’m interested in ...coding and video games
 - 🌱 I’m currently learning ...Sphinx coding documentation
 - 💞️ I’m looking to collaborate on ...industry best practises & data-science opportunities
