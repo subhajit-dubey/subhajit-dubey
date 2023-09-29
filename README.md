@@ -1,11 +1,9 @@
-
 <text align="left">
-- 👋 Hi, I’m Subhajit Dubey<br>
-- 👀 I’m interested in <font color='green'>Coding and video games</font><br>
-- 🌱 I’m currently learning <font color='green'>Sphinx coding documentation & Containarization</font><br>
-- 💞️ I’m looking to collaborate on <font color='green'>industry best practises & data-science opportunities</font><br>
-- 📫 How to reach me?  <font color='green'>subhajit.dubey@gmail.com</font>
-
+- 👋 Hi, I’m Subhajit Dubey
+- 👀 I’m interested in <span style="color:green">Coding and video games</span>
+- 🌱 I’m currently learning <span style="color:green">Sphinx coding documentation & Containarization</span>
+- 💞️ I’m looking to collaborate on <span style="color:green">industry best practices & data-science opportunities</span>
+- 📫 How to reach me? <span style="color:green">subhajit.dubey@gmail.com</span>
 </text>
 
 ###
