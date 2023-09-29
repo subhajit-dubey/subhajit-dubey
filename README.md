@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Subhajit Dubey
-- 👀 I’m interested in <font color='green'>Coding and video games</font>
-- 🌱 I’m currently learning <span style="color:green;">Sphinx coding documentation & Containarization</span>
-- 💞️ I’m looking to collaborate on <span style="color:green">industry best practices & data-science opportunities</span>
-- 📫 How to reach me? <span style="color:green">subhajit.dubey@gmail.com</span>
+- 👀 I’m interested in Coding and video games
+- 🌱 I’m currently learning Sphinx coding documentation & Containarization
+- 💞️ I’m looking to collaborate on industry best practices & data-science opportunities
+- 📫 How to reach me? subhajit.dubey@gmail.com
 
 
 ###
