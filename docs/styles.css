@@ -1,0 +1,32 @@
+.img-container {
+    display: inline-block;
+    position: relative; /* or float: right; to float the image to the right */
+    margin: 0 20px 20px 0; /* Adjust margins as needed to control spacing */
+    }
+.image-container1 a {
+        cursor: pointer;
+        position: relative;
+        display: inline-block; /* This allows the container to only take as much space as the image. */
+        margin: 0 20px 20px 0;
+    }
+.hover-text {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        background-color: rgba(0, 0, 0, 0.7); /* Background color of the hover-over textbox. */
+        color: #fff; /* Text color of the hover-over textbox. */
+        padding: 10px; /* Adjust as needed for spacing. */
+        display: none; /* Initially, the textbox is hidden. */
+    }
+
+.image-container1:hover .hover-text {
+        display: block; /* Show the textbox when hovering over the image. */
+    }
+
+.underlined {
+    text-decoration: underline;
+    font-family: Calibri, Arial, sans-serif;
+}
+.calibri {
+    font-family: Calibri, Arial, sans-serif;
+}
