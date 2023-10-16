@@ -9,7 +9,7 @@ document.querySelectorAll('.image-container1').forEach(container => {
         const y = event.clientY;
         console.log('Mouse X:', x, 'Mouse Y:', y); 
         hoverText.style.left = `${x}px`;
-        hoverText.style.top = `${y}px`; // Adjust the vertical offset as needed.
+        //hoverText.style.top = `${y}px`; // Adjust the vertical offset as needed.
     });
 
     container.addEventListener('mouseleave', () => {

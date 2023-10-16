@@ -11,8 +11,6 @@
     }
 .hover-text {
         position: absolute;
-        top: 100%;
-        left: 0;
         background-color: rgba(0, 0, 0, 0.7); /* Background color of the hover-over textbox. */
         color: #fff; /* Text color of the hover-over textbox. */
         padding: 10px; /* Adjust as needed for spacing. */
